@@ -20,5 +20,5 @@ This lab outlines the process of configuring a Cisco router using Packet Tracer.
 <h2>Goals For Lab</h2>
 
 <p>
-  ! [Project Objectives] (screenshots/LabObjectives.png)
+  ![Project Objectives] (screenshots/LabObjectives.png)
 </p>
