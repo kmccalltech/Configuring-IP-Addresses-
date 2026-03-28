@@ -61,6 +61,7 @@ This lab outlines the process of configuring a Cisco router using Packet Tracer.
 </p>
 
 <h2>Ping from PC1 to PC2 & PC3 to test connectivity</h2>
-<p align="center">
-  <img src="screenshots/ping1.png" width="500">
+<p float="left">
+  <img src="screenshots/ping1.png" width="45%">
+  <img src="screenshots/ping2.png" width="45%">
 </p>
